@@ -10,17 +10,11 @@ Risk Assessment: Categorize customers based on creditworthiness
 Customer Segmentation: Group customers for targeted strategies
 Actionable Insights: Enhance decision-making for marketing and risk management
 
-## 📊 Key Insights
-
-
 ## 🔍 Segmentation Categories
-
-
-## 📌 Recommendations
-✅ Personalized Marketing: Loyalty programs for low-risk customers, financial products for medium-risk, and counseling for high-risk customers
-✅ Credit Policy Adjustments: Stricter criteria for high-risk profiles, automatic payment options, and selective credit limit increases
-✅ Risk Mitigation: AI-based predictive modeling, proactive customer engagement, and improved fraud detection
-✅ Operational Improvements: Optimized customer service, automated risk reporting, and enhanced monitoring
+High-Value Customers: Customers with high lifetime value and frequent transactions
+Low-Risk Borrowers: Customers with a low loan risk profile
+Frequent Spenders: Customers with high spending frequency but moderate transaction amounts
+Infrequent Users: Customers with low transaction frequency and engagement
 
 ## Tableau Dashboard
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/b41e819a-6098-4784-9656-5defc7637d7e" />
