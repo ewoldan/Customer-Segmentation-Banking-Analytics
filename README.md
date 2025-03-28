@@ -1,7 +1,7 @@
 # Customer Segmentation & Banking Analytics
 
 ## 📌 Project Overview
-This project focuses on customer profiling, financial behavior analysis, risk assessment, and segmentation to provide insights for decision-making in financial services. By analyzing customer data, businesses can improve marketing strategies, optimize credit policies, and enhance risk mitigation efforts.
+This project analyzes customer data to improve marketing, optimize credit policies, and enhance risk management in financial services.
 
 ## 🎯 Business Objectives
 Customer Profiling: Identify key demographic and financial characteristics
